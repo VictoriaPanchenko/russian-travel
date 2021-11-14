@@ -1,0 +1,4 @@
+.intro {
+  width: calc(100% - 148px - 442px);
+  margin: 0 auto 92px 148px;
+}
