@@ -12,3 +12,11 @@
     gap: 14px;
   }
 }
+
+@media (max-width: 1023px) {
+  .photo-grid {
+    width: calc(100% - 24px *2);
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+}

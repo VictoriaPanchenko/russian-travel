@@ -10,3 +10,10 @@
     margin-left: 48px;
   }
 }
+
+@media (max-width: 1023px) {
+  .intro {
+    width: calc(100% - 24px * 2);
+    margin-left: 24px;
+  }
+}

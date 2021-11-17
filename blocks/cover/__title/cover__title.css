@@ -15,3 +15,10 @@
     margin-top: 195px;
   }
 }
+
+@media (max-width: 1023px) {
+  .cover__title {
+    width: calc(100% - 104px * 2);
+    margin-top: 115px;
+  }
+}
