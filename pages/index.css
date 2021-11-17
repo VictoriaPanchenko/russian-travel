@@ -29,3 +29,10 @@
 @import url(../blocks/place/__image/place__image.css);
 
 
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/navigation/navigation.css);
+@import url(../blocks/navigation/__items/navigation__items.css);
+@import url(../blocks/navigation/__item/navigation__item.css);
+@import url(../blocks/navigation/__link/navigation__link.css);
