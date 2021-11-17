@@ -7,3 +7,9 @@
   color: #FFFFFF;
   width:  calc(100% - 172px * 2);
 }
+
+@media (max-width: 1279px) {
+  .lead__subtitle {
+    width: calc(100% - 144px * 2);
+  }
+}

@@ -7,3 +7,9 @@
   text-align: center;
   color: #FFFFFF;
 }
+
+@media (max-width: 1279px) {
+  .cover__subtitle {
+    width: calc(100% - 332px * 2);
+  }
+}

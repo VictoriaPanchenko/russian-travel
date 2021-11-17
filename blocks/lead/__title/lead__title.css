@@ -8,3 +8,9 @@
   color: #FFFFFF;
   width:  calc(100% - 132px * 2);
 }
+
+@media (max-width: 1279px) {
+  .lead__title {
+    width: calc(100% - 104px * 2);
+  }
+}

@@ -2,3 +2,9 @@
   margin: 92px auto;
   width: calc(100% - 148px * 2);
 }
+
+@media (max-width: 1279px) {
+  .locations {
+    width: calc(100% - 48px * 2);
+  }
+}
