@@ -11,3 +11,9 @@
     width: calc(100% - 24px * 2);
   }
 }
+
+@media (max-width: 767px) {
+  .header__container {
+    width: calc(100% - 16px * 2);
+  }
+}
