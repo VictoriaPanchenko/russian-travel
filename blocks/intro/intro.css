@@ -15,5 +15,14 @@
   .intro {
     width: calc(100% - 24px * 2);
     margin-left: 24px;
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width: 767px) {
+  .intro {
+    width: calc(100% - 16px * 2);
+    margin-left: 16px;
+    margin-bottom: 64px;
   }
 }
