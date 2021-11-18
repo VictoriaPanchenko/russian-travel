@@ -3,3 +3,10 @@
   margin: 0 0 48px 40px;
   align-self: end;
 }
+
+@media (max-width: 767px) {
+  .place__web-resource {
+    margin-left: 16px;
+    margin-bottom: 32px;
+  }
+}

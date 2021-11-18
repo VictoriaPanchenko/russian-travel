@@ -22,3 +22,14 @@
     margin-top: 115px;
   }
 }
+
+@media (max-width: 767px) {
+  .cover__title {
+    margin: 33px auto 16px auto;
+    width: calc(100% - 30px * 2);
+    font-size: 32px;
+    line-height: 109%;
+  }
+}
+
+

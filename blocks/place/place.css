@@ -1,7 +1,5 @@
 .place {
   display: grid;
-  grid-template-rows: repeat(2, auto);
-  grid-template-columns: repeat(2, auto);
   grid-template-areas:
     "title web"
     "image text";
@@ -10,4 +8,15 @@
 
 .place:last-child {
   margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+  .place {
+    grid-template-areas:
+    "title"
+    "web"
+    "image"
+    "text";
+    margin-bottom: 50px;
+  }
 }
