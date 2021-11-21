@@ -1,8 +1,13 @@
 # CSS Responsive static webpage for desktop and mobile devices
 
-media queries for common device breakpoints - 1280, 1024, 768, 320
+* [Ссылка](https://victoriapanchenko.github.io/russian-travel/index.html), по которой доступен проект.
 
-based on [Figma design](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+Адаптивная и "резиновая" верстка для разных размеров экранов устройств.
 
+**Технологии:**
+* "семантичная" разметка страницы;
+* БЭМ-именование классов в HTML-тэгах;
+* Flex
+* Grid
+* Медиа-запросы 
 
-final work can be seen on [https://victoriapanchenko.github.io/russian-travel/index.html](https://victoriapanchenko.github.io/russian-travel/index.html)
