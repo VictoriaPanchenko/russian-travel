@@ -1,4 +1,4 @@
-# CSS Responsive static webpage for desktop and mobile devices
+# Responsive static webpage for desktop and mobile devices
 
 * [Ссылка](https://victoriapanchenko.github.io/russian-travel/index.html), по которой доступен проект.
 
