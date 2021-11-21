@@ -5,7 +5,7 @@
   background-image: url(../../images/cover-trains.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  overflow: hidden;
+  background-position: center;
   display: grid;
 }
 
@@ -18,14 +18,12 @@
 
 @media (max-width: 1023px) {
   .cover {
-    width: 100%;
     min-height: 480px;
   }
 }
 
 @media (max-width: 767px) {
   .cover {
-    width: 100%;
     min-height: 200px;
   }
 }

@@ -1,13 +1,5 @@
 .header__links {
   display: flex;
-  width: 77px;
   justify-content: space-between;
   margin: 18px 0 0 0;
 }
-
-@media (max-width: 767px) {
-  .header__links {
-    width: 62px;
-  }
-}
-
