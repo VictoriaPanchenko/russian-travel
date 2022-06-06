@@ -1,6 +1,6 @@
 # Responsive static webpage for desktop and mobile devices
 
-* [Ссылка](https://victoriapanchenko.github.io/russian-travel/index.html), по которой доступен проект.
+* [Ссылка](https://levvic.github.io/russian-travel/index.html), по которой доступен проект.
 
 Адаптивная и "резиновая" верстка для разных размеров экранов устройств.
 
